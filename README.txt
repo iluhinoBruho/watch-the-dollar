@@ -1,3 +1,5 @@
+Now with Settings mode!
+
 Good app to follow changes of currency.
 The app sends a mail with currency's change.
 It happens every time when change is bigger or equals an edge that you may tune as you need.
