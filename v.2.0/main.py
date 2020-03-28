@@ -12,7 +12,7 @@ class CURRENCY():
     Headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36"}
     
     cur_converted_value = 0
-    PAUSE = 30 #30 * 60 # 30 minutes by it may be customized while app's running
+    PAUSE = 30 * 60 # 30 minutes by it may be customized while app's running
     
     def __init__(self, difference= 3):
         self.cur_converted_value = float(self.CHECK())
